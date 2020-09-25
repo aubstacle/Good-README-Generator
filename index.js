@@ -28,12 +28,13 @@ const questions = [
   },
   {
     name: "License",
-    message: "License info:",
-    type: "input",
+    message: "Choose a License:",
+    choices: ["BSD", "MIT", "GPL"],
+    type: "list",
   },
   {
     name: "Contributing",
-    message: "User Contribution:",
+    message: "User Contribution info:",
     type: "input",
   },
   {

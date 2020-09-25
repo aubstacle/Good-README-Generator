@@ -27,7 +27,7 @@ ${data.Contributing}
 ${data.Tests}
 
 ## License
-This project is covered under the MIT license.
+This project is protected by the ${data.License} license.
 
 ## Questions
 Feel free to contact me if you have any questions!
