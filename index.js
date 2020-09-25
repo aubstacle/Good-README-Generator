@@ -67,9 +67,11 @@ function init() {
     .prompt(questions)
     .then(function (data) {
       writeToFile(data);
+      "New .md file successfully written!"
     })
     .catch(function (err) {
       if (err) throw err;
+      console.log("Initialize error")
     });
 }
 
