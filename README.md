@@ -15,13 +15,13 @@ Check out a demo video [here](https://drive.google.com/file/d/1dxZm6tXyAqAFdyvtU
 6. [Questions](#Questions)
 
 ## Installation
-The user must run npm install before using the application. If the package.json file contains the correct dependencies, the app is ready to go!
+User must download the files in this repository and open them in VSCode. Open VSCode terminal, make sure you are in current directory and run "npm install" If the package.json file contains the correct dependencies, the app is ready to go!
 
 ## Usage
-To use the application, simply run "node index.js" in the command line and answer the prompts.
+In VSCode terminal, make sure you are in the current directory. To use the application, simply run "node index.js" in the command line and answer the prompts. After completing the prompts, a new "README.md" markdown file should be created with all of your input.
 
 ## Contributing 
-n/a
+This app was created by Aubrey Polk with no other contributors. Further contribution will not be necessary for this project.
 
 ## Tests
 n/a

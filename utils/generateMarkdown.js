@@ -27,11 +27,11 @@ ${data.Contributing}
 ${data.Tests}
 
 ## License
-This project is protected by the ${data.License} license.
+This project is covered under the ${data.License} license.
 For more information on licenses, click [here](https://choosealicense.com/licenses/)
 
 ## Questions
-Feel free to contact me if you have any questions!
+Feel free to contact me if you have any additional questions!
 * email: ${data.Email}
 * github: https://github.com/${data.Github}
 
