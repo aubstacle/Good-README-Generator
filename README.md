@@ -4,6 +4,8 @@
 ## Description 
 Welcome to my README.md generator command line application! This app utilizes node.js and ES6+ to quickly generate a good project README markdown file from the user's input, allowing the user to spend more time working on their project and less time worrying about their README.
 
+Check out a demo video [here](https://drive.google.com/file/d/1dxZm6tXyAqAFdyvtU4qvYdwZKwhL3eIk/view?usp=sharing)
+
 ## Table of Contents
 1. [Installation](#Installation)
 2. [Usage](#Usage)
