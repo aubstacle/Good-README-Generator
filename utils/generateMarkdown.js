@@ -31,8 +31,8 @@ This project is covered under the MIT license.
 
 ## Questions
 Feel free to contact me if you have any questions!
-email: ${data.Email}
-github: https://github.com/${data.Github}
+* email: ${data.Email}
+* github: https://github.com/${data.Github}
 
 `;
 }
