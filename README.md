@@ -1,8 +1,8 @@
-![MIT](https://img.shields.io/badge/License-MIT-blue)
-  # Good README Generator
+![bsl-1.0](https://img.shields.io/badge/License-bsl-1.0-blue)
+  # test
 
 ## Description 
-desc
+test
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -13,20 +13,20 @@ desc
 6. [Questions](#Questions)
 
 ## Installation
-install
+test
 
 ## Usage
-usage
+test
 
 ## Contributing 
-contr
+test
 
 ## Tests
 test
 
 ## License
-This project is protected by the MIT license.
-For more information on this licence, click [here](https://choosealicense.com/licenses/MIT/)
+This project is protected by the bsl-1.0 license.
+For more information on this licence, click [here](https://choosealicense.com/licenses/bsl-1.0/)
 
 ## Questions
 Feel free to contact me if you have any questions!
