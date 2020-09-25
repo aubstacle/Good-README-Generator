@@ -1,8 +1,8 @@
 ![MIT](https://img.shields.io/badge/License-MIT-blue)
-  # Good README Generator
+  # Good README Generator - Sample
 
 ## Description 
-Project Description
+This is a sample readme created with my readme generator command line application!
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -13,16 +13,16 @@ Project Description
 6. [Questions](#Questions)
 
 ## Installation
-Installation
+User needs to run npm install in their command line, app will work as long as the correct dependencies are available in the package.json file. 
 
 ## Usage
-Usage
+Run node index.js to use the application in the command line.
 
 ## Contributing 
-Contribution
+n/a
 
 ## Tests
-Test
+n/a
 
 ## License
 This project is protected by the MIT license.
