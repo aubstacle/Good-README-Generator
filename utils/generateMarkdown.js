@@ -7,12 +7,12 @@ function generateMarkdown(data) {
 ${data.Description}
 
 ## Table of Contents
-[Installation](#Installation)
-[Usage](#Usage)
-[Contributing](#Contributing)
-[Tests](#Tests)
-[License](#License)
-[Questions](#Questions)
+1. [Installation](#Installation)
+2. [Usage](#Usage)
+3. [Contributing](#Contributing)
+4. [Tests](#Tests)
+5. [License](#License)
+6. [Questions](#Questions)
 
 ## Installation
 ${data.Installation}
