@@ -1,8 +1,8 @@
-![Apache](https://img.shields.io/badge/License-Apache-blue)
-  # test
+![MIT](https://img.shields.io/badge/License-MIT-blue)
+  # Good README Generator
 
 ## Description 
-test
+Project Description
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -13,23 +13,23 @@ test
 6. [Questions](#Questions)
 
 ## Installation
-test
+Installation
 
 ## Usage
-test
+Usage
 
 ## Contributing 
-test
+Contribution
 
 ## Tests
-test
+Test
 
 ## License
-This project is protected by the Apache license.
+This project is protected by the MIT license.
 For more information on licenses, click [here](https://choosealicense.com/licenses/)
 
 ## Questions
 Feel free to contact me if you have any questions!
-* email: test
-* github: https://github.com/test
+* email: aubstacle3@gmail.com
+* github: https://github.com/aubstacle
 
