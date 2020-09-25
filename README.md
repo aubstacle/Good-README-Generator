@@ -1,8 +1,8 @@
 ![MIT License](https://img.shields.io/badge/License-MIT-blue)
-  # Good ReadMe
+  # Good README Generator
 
 ## Description 
-blah blah
+Description
 
 ## Table of Contents
 1. [Installation](#Installation)
@@ -13,22 +13,22 @@ blah blah
 6. [Questions](#Questions)
 
 ## Installation
-install
+Installation
 
 ## Usage
-usage
+Usage
 
 ## Contributing 
-cont
+Contribution
 
 ## Tests
-test
+Test
 
 ## License
 This project is covered under the MIT license.
 
 ## Questions
 Feel free to contact me if you have any questions!
-email: aubstacle3@gmail.com
-github: https://github.com/aubstacle
+* email: aubstacle3@gmail.com
+* github: https://github.com/aubstacle
 
