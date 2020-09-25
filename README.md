@@ -1,4 +1,4 @@
-![bsl-1.0](https://img.shields.io/badge/License-bsl-1.0-blue)
+![Apache](https://img.shields.io/badge/License-Apache-blue)
   # test
 
 ## Description 
@@ -25,8 +25,8 @@ test
 test
 
 ## License
-This project is protected by the bsl-1.0 license.
-For more information on this licence, click [here](https://choosealicense.com/licenses/bsl-1.0/)
+This project is protected by the Apache license.
+For more information on licenses, click [here](https://choosealicense.com/licenses/)
 
 ## Questions
 Feel free to contact me if you have any questions!

@@ -28,7 +28,7 @@ ${data.Tests}
 
 ## License
 This project is protected by the ${data.License} license.
-For more information on this licence, click [here](https://choosealicense.com/licenses/${data.License}/)
+For more information on licenses, click [here](https://choosealicense.com/licenses/)
 
 ## Questions
 Feel free to contact me if you have any questions!
